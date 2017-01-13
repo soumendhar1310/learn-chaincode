@@ -48,6 +48,7 @@ func (t *SimpleChaincode) Init(stub shim.ChaincodeStubInterface, function string
     	}
 
 
+
 	return nil, nil
 }
 
